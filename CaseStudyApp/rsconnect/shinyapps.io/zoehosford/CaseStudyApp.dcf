@@ -1,0 +1,12 @@
+name: CaseStudyApp
+title: CaseStudyApp
+username: zoehosford
+account: zoehosford
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17258498
+bundleId: 11925089
+url: https://zoehosford.shinyapps.io/CaseStudyApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
