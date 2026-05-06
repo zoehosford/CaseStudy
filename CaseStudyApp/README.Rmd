@@ -1,0 +1,8 @@
+---
+title: "READ.ME"
+author: "Zoe Hosford"
+date: "2026-05-06"
+output: html_document
+---
+
+Hi! This is my README!
